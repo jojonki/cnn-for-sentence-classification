@@ -5,7 +5,7 @@ https://arxiv.org/abs/1408.5882
 ## What is this?
 Positive/Negative classification of text via CNN and pre-trained embeddings. I reproduced this by Keras.
 
-![](https://github.com/jojonki/cnn-for-sentence-classification/blob/images/cnn-class.png?raw=true)
+![](https://github.com/jojonki/cnn-for-sentence-classification/blob/images/cnn-class1.png?raw=true)
 
 ## How to train?
 ```
